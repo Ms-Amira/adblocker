@@ -1,7 +1,7 @@
 {
-   "mainfest_version": 2,
+   "manifest_version": 2,
     "name": "LinkedIn Adblocker",
-    "description": "Blocking ads.",
+    "description": "Blocking ads",
     "version": "0.0.1",
     "author": "Amira",
     "browser_action": {
