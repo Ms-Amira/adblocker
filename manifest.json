@@ -1,0 +1,20 @@
+{
+   "mainfest_version": 2,
+    "name": "LinkedIn Adblocker",
+    "description": "Blocking ads.",
+    "version": "0.0.1",
+    "author": "Amira",
+    "browser_action": {
+        "default_title": "LinkedIn Adblocker"
+    },
+    "permissions": [
+        "tabs",
+        "webNavigation",
+        "https://www.LinkedIn.com/"
+    ],
+    "background": {
+        "scripts": [
+            "extension.js"
+        ]
+    }
+}
